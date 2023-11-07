@@ -1,2 +1,2 @@
-if __name__ == __main__:
-	print(Hi!)
+if '__name__ == __main__:
+	print("This is file3!")
